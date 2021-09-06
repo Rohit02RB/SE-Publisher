@@ -1,0 +1,21 @@
+# github.com/golang/snappy v0.0.1
+github.com/golang/snappy
+# github.com/gorilla/mux v1.8.0
+## explicit
+github.com/gorilla/mux
+# github.com/jinzhu/gorm v1.9.16
+## explicit
+github.com/jinzhu/gorm
+github.com/jinzhu/gorm/dialects/postgres
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/lib/pq v1.3.0
+github.com/lib/pq
+github.com/lib/pq/hstore
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/nsqio/go-nsq v1.0.8
+## explicit
+github.com/nsqio/go-nsq
+# gorm.io/driver/postgres v1.1.0
+## explicit
